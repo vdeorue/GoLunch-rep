@@ -1,6 +1,6 @@
 # GoLunch-rep
 # Codigo para las cajas de seleccion de categorias, y un boton de el cual muestra las opciones seleccionadas.
-{
+
 package Categorias;
 import javax.swing.*;
 import java.awt.*;
@@ -50,6 +50,4 @@ public void Frame(){
 
 
 
-}
-}
 }
